@@ -215,6 +215,11 @@
   .button1 {
     margin-top: 10vw;
   }
+
+  .project-tile {
+    max-width: 25vw;
+    max-height: 40vh
+  }
     
     
     
